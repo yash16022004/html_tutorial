@@ -1,0 +1,100 @@
+body{
+    margin:50px auto;
+    display:flex;
+    justify-content: center;
+}
+.box{
+    height:236px;
+    width:710px;
+    border:1px solid black;
+    padding-bottom: 20px;
+    /* background-color: red; */
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.leftbox{
+    height:226px;
+    width:49%;
+    /* background-color:chartreuse; */
+    margin-left: 5px;
+}
+.rightbox{
+    height:226px;
+    width:49%;
+    /* background-color:rgb(90, 160, 20); */
+    margin-left: 5px;
+}
+
+.lion{
+    height:37px;
+    margin:2px 5px 5px 35px;
+}
+.header{
+    /* background: crimson; */
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    height:38px;
+}
+.gov{
+    height:33px;
+    margin:3px 0px 0px 26px;
+}
+.bodypart{
+    height:170px;
+    width:100%;
+    flex-direction: row;
+    display: flex;
+    /* background: cyan */
+}
+.pic{
+    /* background:rgb(6, 5, 5); */
+    height:100%;
+    width:100px;
+}
+.info{
+    /* background:rgb(214, 184, 184); */
+    height:100%;
+    width:170px;
+    font-size: 12px;
+}
+.qr{
+    /* background:rgb(121, 73, 73); */
+    height:100%;
+    width:77px;
+}
+.photo{
+    height:100px;
+    /* width:100%; */
+    margin-left:10px;
+    margin-top:5px;
+
+}
+.footer{
+    /* background-color: darkcyan; */
+    height:24px;
+    width:100%;
+    border-top:tomato 2px solid ;
+}
+.qr{
+    height: 55px;
+    width:60px;
+    margin-top:50px;
+    /* margin-right:12px; */
+    margin:50px 10px 0px 6px;
+}
+.adNo{
+    margin:15px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 2px;
+    padding-top: 25px;
+}
+.para{
+    text-align:center;
+
+}
+
+
